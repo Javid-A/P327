@@ -134,22 +134,22 @@
             //int result = 5 + 10;
             //Console.WriteLine(result);
 
-            Total();
-            Total(5, 10);
-            Total(5, 10, 10);
-            Total(10.6, 20.3);
-            Total(10.3, 10);
-            Total(10, 30.3);
+            //Total();
+            //Total(5, 10);
+            //Total(5, 10, 10);
+            //Total(10.6, 20.3);
+            //Total(10.3, 10);
+            //Total(10, 30.3);
 
-            ShowRange(0,30,2);
-            ShowRange(100,200,7);
-            ShowRange(200,500,15);
+            //ShowRange(0,30,2);
+            //ShowRange(100,200,7);
+            //ShowRange(200,500,15);
 
 
-            int number1 = 10;
-            int number2 = 0;
+            //int number1 = 10;
+            //int number2 = 0;
 
-            Console.WriteLine(number1/number2);
+            //Console.WriteLine(number1/number2);
             //var number = 10;
             //dynamic number2 = 20;
             //Console.WriteLine(number);

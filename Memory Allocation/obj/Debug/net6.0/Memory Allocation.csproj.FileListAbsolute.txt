@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\bin\Debug\net6.0\Memory Allocation.exe
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\bin\Debug\net6.0\Memory Allocation.deps.json
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\bin\Debug\net6.0\Memory Allocation.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\bin\Debug\net6.0\Memory Allocation.dll
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\bin\Debug\net6.0\Memory Allocation.pdb
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.dll
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\refint\Memory Allocation.dll
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.pdb
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\Memory Allocation.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P327\Memory Allocation\obj\Debug\net6.0\ref\Memory Allocation.dll
