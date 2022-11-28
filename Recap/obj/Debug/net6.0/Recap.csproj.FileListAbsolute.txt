@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\P327\Recap\bin\Debug\net6.0\Recap.exe
+C:\Users\Lenovo\source\repos\P327\Recap\bin\Debug\net6.0\Recap.deps.json
+C:\Users\Lenovo\source\repos\P327\Recap\bin\Debug\net6.0\Recap.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P327\Recap\bin\Debug\net6.0\Recap.dll
+C:\Users\Lenovo\source\repos\P327\Recap\bin\Debug\net6.0\Recap.pdb
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.dll
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\refint\Recap.dll
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.pdb
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\Recap.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P327\Recap\obj\Debug\net6.0\ref\Recap.dll

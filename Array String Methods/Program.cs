@@ -121,8 +121,8 @@
             //string numbers= string.Concat("1", "2", "3", "4", "5");
 
             //Console.WriteLine(numbers);
-            string test = "Cola,Milk,Coffeem,Tea";
-            int price = 257;
+            //string test = "Cola,Milk,Coffeem,Tea";
+            //int price = 257;
 
             //Console.WriteLine(test.Contains("m P"));
 
