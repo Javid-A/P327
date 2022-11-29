@@ -13,6 +13,7 @@ namespace StringBuilder_Class
         public byte Age;
         public string Gender;
 
+        
         //public Student(string Firstname,string Surname, byte Age, string Gender)
         //{
         //    this.Firstname = Firstname;
@@ -20,13 +21,14 @@ namespace StringBuilder_Class
         //    this.Age = Age;
         //    this.Gender = Gender;
         //}
+        
 
-
-        public Student(string name,string surname,byte age,string gender):this(age,gender)
+        public Student(string name,string surname,byte age,string gender):this(age,gender)// new Student(age,gender)
         {
             Firstname = name;
             Surname = surname;
             Console.WriteLine("First");
+            
         }
 
         public Student(byte age,string gender):this(gender)

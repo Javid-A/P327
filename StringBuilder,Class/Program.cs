@@ -62,7 +62,6 @@ namespace StringBuilder_Class
 
             ////student4.ShowFirstname();
 
-
             //Student student = new Student("Asiman", "Qasimzade");
 
             Console.WriteLine(student);
