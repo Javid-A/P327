@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\bin\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.exe
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\bin\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.deps.json
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\bin\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\bin\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.dll
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\bin\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.pdb
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.dll
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\refint\Namespaces, Access modifiers, dynamic link library.dll
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.pdb
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\Namespaces, Access modifiers, dynamic link library.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P327\Namespaces, Access modifiers, dynamic link library\obj\Debug\net6.0\ref\Namespaces, Access modifiers, dynamic link library.dll
