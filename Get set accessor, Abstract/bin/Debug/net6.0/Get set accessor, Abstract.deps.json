@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Get set accessor, Abstract/1.0.0": {
+        "runtime": {
+          "Get set accessor, Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Get set accessor, Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

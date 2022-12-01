@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\bin\Debug\net6.0\Get set accessor, Abstract.exe
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\bin\Debug\net6.0\Get set accessor, Abstract.deps.json
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\bin\Debug\net6.0\Get set accessor, Abstract.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\bin\Debug\net6.0\Get set accessor, Abstract.dll
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\bin\Debug\net6.0\Get set accessor, Abstract.pdb
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.dll
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\refint\Get set accessor, Abstract.dll
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.pdb
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\Get set accessor, Abstract.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P327\Get set accessor, Abstract\obj\Debug\net6.0\ref\Get set accessor, Abstract.dll
