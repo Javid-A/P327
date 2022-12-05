@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\bin\Debug\net6.0\Abstract part 2, Interface, Static.exe
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\bin\Debug\net6.0\Abstract part 2, Interface, Static.deps.json
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\bin\Debug\net6.0\Abstract part 2, Interface, Static.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\bin\Debug\net6.0\Abstract part 2, Interface, Static.dll
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\bin\Debug\net6.0\Abstract part 2, Interface, Static.pdb
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.dll
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\refint\Abstract part 2, Interface, Static.dll
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.pdb
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\Abstract part 2, Interface, Static.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P327\Abstract part 2, Interface, Static\obj\Debug\net6.0\ref\Abstract part 2, Interface, Static.dll
