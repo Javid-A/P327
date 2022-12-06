@@ -30,12 +30,34 @@
 
 
             //Console.WriteLine(Category.count);
-            Category category = new Category("Electronics", "elec.jpg");
+            //Category category = new Category("Electronics", "elec.jpg");
             Category category1 = new Category("Furniture", "fur.jpg");
-            Category category2 = new Category("Furniture", "fur.jpg");
-            Category category3 = new Category("Furniture", "fur.jpg");
-            Console.WriteLine(category2.Id);
-        }
+            //Category category2 = new Category("Furniture", "fur.jpg");
+            //Category category3 = new Category("Furniture", "fur.jpg");
+            //category2.NonStaticMethod();
+            //Category.StaticMethod();
+            string name = " Shahin";
+            int num = 5;
+            num.Add(100);
 
+            string info = name.CustomConcat("Sherifzade","18","P327");
+
+            Console.WriteLine(info);
+            category1.CustomCreateCategory("Electronics","elec.jpg");
+            Console.WriteLine(category1.Name);
+            Console.WriteLine(category1.Image);
+            string test = "TEST";
+
+            Console.WriteLine(test.ToLower());
+            Console.WriteLine(test);
+
+            Test(test);
+            Console.WriteLine(test);
+        }
+        static void Test(string test)
+        {
+            test = "100";
+            Console.WriteLine(test);
+        }
     }
 }

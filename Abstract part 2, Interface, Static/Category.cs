@@ -11,19 +11,29 @@ namespace Abstract_part_2__Interface__Static
         public int Id;
         public string Name;
         public string Image;
-         static int count;
+        static int count;
         public Category(string name, string image)
         {
             Id = count;
             Name = name;
             Image = image;
+            count++;
             
         }
         static Category()
         {
             count = 1;
-            count++;
         }
 
+        public void NonStaticMethod()
+        {
+            Console.WriteLine(Name);
+            Console.WriteLine(count);
+        }
+
+        public static void StaticMethod()
+        {
+            Console.WriteLine(count);
+        }
     }
 }
