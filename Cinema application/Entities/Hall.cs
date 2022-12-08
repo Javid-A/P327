@@ -59,5 +59,10 @@ namespace Cinema_application.Entities
                     break;
             }
         }
+
+        public override string ToString()
+        {
+            return $"No: {No}, Oturacaq sayi:{Seats.Length}";
+        }
     }
 }

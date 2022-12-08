@@ -19,19 +19,20 @@ namespace Cinema_application.Services
         }
         public string CreateHall(int row, int column, Categories category)
         {
+            
             Hall hall = new Hall(row,column,category);
             Array.Resize(ref _halls, _halls.Length + 1);
             _halls[_halls.Length - 1] = hall;
             return hall.No;
         }
 
-        public bool EditHallNo(string oldNo, string newNo)
+        public bool? EditHallNo(string oldNo, string newNo)
         {
             Hall existed = FindHall(oldNo);
            
             if(existed == null)
             {
-                return false;
+                return null;
             }
             foreach (Hall hall in _halls)
             {
@@ -85,12 +86,12 @@ namespace Cinema_application.Services
             }
         }
 
-        public bool Reserve(int row, int column, string no)
+        public bool? Reserve(int row, int column, string no)
         {
             Hall existed = FindHall(no);
             if(existed == null)
             {
-                return false;
+                return null;
             }
 
             if(row>existed.Seats.GetLength(0) || column > existed.Seats.GetLength(1))

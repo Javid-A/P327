@@ -12,9 +12,9 @@ namespace Cinema_application.Services
     {
         Hall[] Halls { get; }
         string CreateHall(int row, int column, Categories category);
-        bool EditHallNo(string oldNo, string newNo);
+        bool? EditHallNo(string oldNo, string newNo);
         void GetHalls();
         void GetSeatsByHall(string no);
-        bool Reserve(int row, int column, string no);
+        bool? Reserve(int row, int column, string no);
     }
 }

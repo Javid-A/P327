@@ -18,5 +18,10 @@ namespace Cinema_application.Entities
             Column = column;
             Status = false;
         }
+
+        public override string ToString()
+        {
+            return $"Sira: {Row}, Sutun:{Column}, Status :{(Status ? "Doludur" : "Boshdur")}";
+        }
     }
 }
