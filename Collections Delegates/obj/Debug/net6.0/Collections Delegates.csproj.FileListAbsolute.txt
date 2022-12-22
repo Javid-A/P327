@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\bin\Debug\net6.0\Collections Delegates.exe
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\bin\Debug\net6.0\Collections Delegates.deps.json
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\bin\Debug\net6.0\Collections Delegates.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\bin\Debug\net6.0\Collections Delegates.dll
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\bin\Debug\net6.0\Collections Delegates.pdb
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.dll
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\refint\Collections Delegates.dll
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.pdb
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\Collections Delegates.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P327\Collections Delegates\obj\Debug\net6.0\ref\Collections Delegates.dll

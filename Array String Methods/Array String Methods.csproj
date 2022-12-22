@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Exception, Reflection\Exception, Reflection.csproj" />
+  </ItemGroup>
+
 </Project>

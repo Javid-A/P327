@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\bin\Debug\net6.0\Exception, Reflection.exe
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\bin\Debug\net6.0\Exception, Reflection.deps.json
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\bin\Debug\net6.0\Exception, Reflection.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\bin\Debug\net6.0\Exception, Reflection.dll
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\bin\Debug\net6.0\Exception, Reflection.pdb
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.dll
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\refint\Exception, Reflection.dll
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.pdb
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\Exception, Reflection.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\P327\Exception, Reflection\obj\Debug\net6.0\ref\Exception, Reflection.dll

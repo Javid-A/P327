@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Exception, Reflection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Exception, Reflection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exception, Reflection.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Exception, Reflection/1.0.0": {
+      "type": "project",
+      "path": "../Exception, Reflection/Exception, Reflection.csproj",
+      "msbuildProject": "../Exception, Reflection/Exception, Reflection.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Exception, Reflection >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\source\\repos\\P327\\Exception, Reflection\\Exception, Reflection.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\P327\\Exception, Reflection\\Exception, Reflection.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
