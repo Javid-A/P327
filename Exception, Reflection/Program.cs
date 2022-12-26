@@ -116,12 +116,12 @@ namespace Exception__Reflection
             //    Console.WriteLine(item.Name);
             //}
 
-            Student student = new Student(30);
+            //Student student = new Student(30);
 
-            FieldInfo privateField = student.GetType().GetField("PrivateField", BindingFlags.NonPublic | BindingFlags.Instance);
-            Console.WriteLine(privateField.GetValue(student));
-            privateField.SetValue(student,"Private field value has been changed");
-            Console.WriteLine(privateField.GetValue(student));
+            //FieldInfo privateField = student.GetType().GetField("PrivateField", BindingFlags.NonPublic | BindingFlags.Instance);
+            //Console.WriteLine(privateField.GetValue(student));
+            //privateField.SetValue(student,"Private field value has been changed");
+            //Console.WriteLine(privateField.GetValue(student));
 
         }
     }

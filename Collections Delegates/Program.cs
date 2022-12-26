@@ -292,15 +292,19 @@ namespace Collections_Delegates
             //    }
             //}
 
-            IEnumerable<Student> stus = list.Where(s=>s.Name.Contains('m') && s.Name.Contains('i'));
-            foreach (var item in stus)
-            {
-                Console.WriteLine(item.Name);
-            }
+            //IEnumerable<Student> stus = list.Where(s=>s.Name.Contains('m') && s.Name.Contains('i'));
+            //foreach (var item in stus)
+            //{
+            //    Console.WriteLine(item.Name);
+            //}
 
-            Student student = list.FirstOrDefault(s=>s.Name == "Ayxaasdan");
-            Console.WriteLine(student==null);
+            //Student student = list.FirstOrDefault(s=>s.Name == "Ayxaasdan");
+            //Console.WriteLine(student==null);
 
+
+            SortedList<int, City> sorted = new SortedList<int, City>();
+
+            
         }
 
         public static void MethodForAction(int num1, int num2, double num3, char ch,string word)
