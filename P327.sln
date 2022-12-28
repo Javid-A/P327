@@ -35,7 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections Delegates", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception, Reflection", "Exception, Reflection\Exception, Reflection.csproj", "{AB8BC2EF-61BE-4C39-ACE8-C5A42972EF6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream", "Stream\Stream.csproj", "{8901F5D5-369D-42C2-893C-116061038400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stream", "Stream\Stream.csproj", "{8901F5D5-369D-42C2-893C-116061038400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchronous programming", "Asynchronous programming\Asynchronous programming.csproj", "{FD14E2F8-A3BA-4DC4-9679-5D6772146E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Download", "Download\Download.csproj", "{ADE9E21E-06A8-4644-9342-13A6DA43810C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{8901F5D5-369D-42C2-893C-116061038400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8901F5D5-369D-42C2-893C-116061038400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8901F5D5-369D-42C2-893C-116061038400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD14E2F8-A3BA-4DC4-9679-5D6772146E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD14E2F8-A3BA-4DC4-9679-5D6772146E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD14E2F8-A3BA-4DC4-9679-5D6772146E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD14E2F8-A3BA-4DC4-9679-5D6772146E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE9E21E-06A8-4644-9342-13A6DA43810C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE9E21E-06A8-4644-9342-13A6DA43810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE9E21E-06A8-4644-9342-13A6DA43810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE9E21E-06A8-4644-9342-13A6DA43810C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

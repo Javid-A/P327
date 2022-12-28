@@ -65,6 +65,7 @@ namespace StringBuilder_Class
             //Student student = new Student("Asiman", "Qasimzade");
 
             Console.WriteLine(student);
+
             
         }
         
